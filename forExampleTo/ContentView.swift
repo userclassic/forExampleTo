@@ -13,7 +13,7 @@ struct ContentView: View {
             Text("Hello,my world!")
                 .padding()
                 .font(.largeTitle.bold())
-            Text ("good day = Friday")
+            Text ("good day = Friday and Sunday")
                 .padding()
                 .font(.headline.monospaced().weight(.ultraLight))
         }
