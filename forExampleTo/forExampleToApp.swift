@@ -8,6 +8,13 @@
 import SwiftUI
 
 @main
+//extension View {
+//    func someExperimental() -> some View {
+//
+//    }
+//
+//}
+
 struct forExampleToApp: App {
     var body: some Scene {
         WindowGroup {
